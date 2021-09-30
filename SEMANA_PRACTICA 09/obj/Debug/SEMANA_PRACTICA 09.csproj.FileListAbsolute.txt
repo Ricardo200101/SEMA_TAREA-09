@@ -1,0 +1,10 @@
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\bin\Debug\SEMANA_PRACTICA 09.exe.config
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\bin\Debug\SEMANA_PRACTICA 09.exe
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\bin\Debug\SEMANA_PRACTICA 09.pdb
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\obj\Debug\SEMANA_PRACTICA 09.csproj.AssemblyReference.cache
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\obj\Debug\SEMANA_PRACTICA_09.Form1.resources
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\obj\Debug\SEMANA_PRACTICA_09.Properties.Resources.resources
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\obj\Debug\SEMANA_PRACTICA 09.csproj.GenerateResource.cache
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\obj\Debug\SEMANA_PRACTICA 09.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\obj\Debug\SEMANA_PRACTICA 09.exe
+C:\Users\Ricardo Alvarez\source\repos\SEMANA_PRACTICA 09\SEMANA_PRACTICA 09\obj\Debug\SEMANA_PRACTICA 09.pdb
